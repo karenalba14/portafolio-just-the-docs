@@ -5,9 +5,9 @@ nav_order: 2
 ---
 
 ## 1) Quién soy
-**Nombre**: Karen Alheli Alba Barraza
-**Fecha de nacimiento**: 23-02-2008
-**Carrera**: Ingeniería mecatrónica y sistemas ciberfísicos
+**Nombre**: Karen Alheli Alba Barraza.
+**Fecha de nacimiento**: 23-02-2008.
+**Carrera**: Ingeniería mecatrónica y sistemas ciberfísicos.
 
 
 - **GitHub**: plataforma para alojar proyectos (repositorios) y colaborar.
