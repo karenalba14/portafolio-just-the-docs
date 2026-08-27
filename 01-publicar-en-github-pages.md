@@ -1,20 +1,14 @@
 ---
 layout: default
-title: Publicar en GitHub Pages
+title: Acerca de mi
 nav_order: 2
 ---
 
-# Publicar sitio en GitHub Pages
+## 1) Quién soy
+**Nombre**: Karen Alheli Alba Barraza
+**Fecha de nacimiento**: 23-02-2008
+**Carrera**: Ingeniería mecatrónica y sistemas ciberfísicos
 
-En este curso vamos a publicar tu documentación como un **sitio web** usando:
-
-- **GitHub** (para guardar el repositorio y el historial)
-- **GitHub Pages** (para convertir el repositorio en una URL pública)
-- **Codespaces** (para editar desde el navegador, sin instalar nada)
-
----
-
-## 1) Conceptos
 
 - **GitHub**: plataforma para alojar proyectos (repositorios) y colaborar.
 - **Repositorio (repo)**: carpeta de proyecto con archivos + historial.
