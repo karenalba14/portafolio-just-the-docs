@@ -4,12 +4,16 @@ title: Arduino
 nav_order:6
 ---
 # Arduino. 
-¿Qué es un arduino?   
-El Arduino es una herramienta en plataforma electrónica de código abierto, que tiene software y hardware libres. Fue creado en italia en 2005 para desarrollar prototipos interactivos. Permite utlizar muchos microordenadores de una sola placa y darles muchos usos.     
+¿Qué es un arduino? 
+
+El Arduino es una herramienta en plataforma electrónica de código abierto, que tiene software y hardware libres. Fue creado en italia en 2005 para desarrollar prototipos interactivos. Permite utlizar muchos microordenadores de una sola placa y darles muchos usos.  
+
 El hardware es una placa que contiene un microcontrolador principal que permite controlar sus elementos periféricos.
 
-¿Cómo se utiliza el programa de Arduino IDE?    
+¿Cómo se utiliza el programa de Arduino IDE? 
+
 El Arduino IDE es el programa que se utiliza para escribir, revisar y cargar instrucciones en una placa Arduino. IDE significa Integrated Development Environment o “Entorno de Desarrollo Integrado”.   
+
 Primero se instala el Arduino IDE en la computadora y se conecta la placa Arduino mediante un cable USB. Dentro del programa se escribe el código, llamado sketch, usando un lenguaje basado en C/C++. Después, el IDE revisa si existen errores y compila el programa. Finalmente, al presionar el botón de cargar, el código se transfiere a la placa Arduino, que lo ejecuta para controlar componentes como luces, sensores, motores o pantallas.     
 
 Lista de materiales:
