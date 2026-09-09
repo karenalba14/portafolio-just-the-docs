@@ -6,7 +6,7 @@ nav_order:6
 # Arduino. 
 ¿Qué es un arduino? 
 
-El Arduino es una herramienta en plataforma electrónica de código abierto, que tiene software y hardware libres. Fue creado en italia en 2005 para desarrollar prototipos interactivos. Permite utlizar muchos microordenadores de una sola placa y darles muchos usos.  
+El Arduino es un software en plataforma electrónica de código abierto, que tiene software y hardware libres. Fue creado en italia en 2005 para desarrollar prototipos interactivos. Permite utlizar muchos microordenadores de una sola placa y darles muchos usos.  
 
 El hardware es una placa que contiene un microcontrolador principal que permite controlar sus elementos periféricos.
 
@@ -29,4 +29,26 @@ Lista de materiales:
 * Potenciómetros: resistencias variables que permiten modificar una señal eléctrica, por ejemplo para regular la intensidad de una luz o la posición de un servomotor.    
 * Fuente de poder: suministra la energía necesaria para alimentar el Arduino y los componentes del circuito.    
 * Push button: botón que envía una señal al Arduino al presionarlo.    
+
+# Reporte
+0_Ejemplo Blink
+Código:
+// C++ code
+//
+void setup()
+{
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+}
+
+Foto
+! [fotcir1]()
+
 
