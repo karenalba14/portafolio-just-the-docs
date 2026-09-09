@@ -31,9 +31,9 @@ Lista de materiales:
 * Push button: botón que envía una señal al Arduino al presionarlo.    
 
 # Reporte
-0_Ejemplo Blink
+## 0_Ejemplo Blink
 
-Código:
+**Código:**
 // C++ code
 //
 void setup()
@@ -49,15 +49,15 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
 }
 
-Foto
+**Foto**
 ![Circuito 1](assets/img/arduino/00.jpeg)
 
-Video
+**Video**
 
 
-1_Salida Digital High
+## 1_Salida Digital High
 
-Código
+**Código**
 // C++ code
 //
 void setup()
@@ -70,15 +70,15 @@ void loop()
   digitalWrite(13, HIGH);
 }
 
-Foto
+**Foto**
 ![Circuito 2](assets/img/arduino/01.jpeg)
 
-Video
+**Video**
 
 
-2_Salida Digital Low
+## 2_Salida Digital Low
 
-Código
+**Código**
 // C++ code
 //
 void setup()
@@ -91,16 +91,16 @@ void loop()
   digitalWrite(13, LOW);
 }
 
-Foto
+**Foto**
 ![Circuito 3](assets/img/arduino/02.jpeg)
 
-Video
+**Video**
 
 
 
-3_Salida Digital Delay
+## 3_Salida Digital Delay
 
-Código
+**Código**
 // C++ code
 //
 void setup()
@@ -116,14 +116,14 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
 }
 
-Foto
+*+Foto**
 ![Circuito 4](assets/img/arduino/03.jpeg)
 
-Video
+**Video**
 
-4_Salida Digital Led
+## 4_Salida Digital Led
 
-Código
+**Código**
 // C++ code
 //
 void setup()
@@ -139,15 +139,15 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
 }
 
-Foto
+**Foto**
 ![Circuito 5](assets/img/arduino/04.jpeg)
 
-Video
+**Video**
 
 
-5_Salida Digital Protoboard
+## 5_Salida Digital Protoboard
 
-Código
+**Código**
 // C++ code
 //
 void setup()
@@ -163,15 +163,15 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
 }
 
-Foto
+**Foto**
 ![Circuito 6](assets/img/arduino/05.jpeg)
 
-Video
+**Video**
 
 
-6_Salida Digital Leds I
+## 6_Salida Digital Leds I
 
-Código
+**Código**
 // C++ code
 //
 void setup()
@@ -187,6 +187,7 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
 }
 
-Foto
+**Foto**
 ![Circuito 7](assets/img/arduino/06.jpeg)
 
+**Video**
