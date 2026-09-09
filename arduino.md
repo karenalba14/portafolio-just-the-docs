@@ -50,7 +50,7 @@ void loop()
 }
 
 Foto
-! [Circuito 1](assets/img/arduino/00.jpeg)
+![Circuito 1](assets/img/arduino/00.jpeg)
 
 Video
 
@@ -71,7 +71,7 @@ void loop()
 }
 
 Foto
-! [Circuito 2](assets/img/arduino/01.jpeg)
+![Circuito 2](assets/img/arduino/01.jpeg)
 
 Video
 
@@ -92,7 +92,7 @@ void loop()
 }
 
 Foto
-! [Circuito 3](assets/img/arduino/02.jpeg)
+![Circuito 3](assets/img/arduino/02.jpeg)
 
 Video
 
