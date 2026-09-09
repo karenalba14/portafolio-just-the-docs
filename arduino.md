@@ -32,6 +32,7 @@ Lista de materiales:
 
 # Reporte
 0_Ejemplo Blink
+
 Código:
 // C++ code
 //
@@ -49,6 +50,76 @@ void loop()
 }
 
 Foto
-! [fotcir1]()
+! [Circuito 1](assets/img/arduino/00.jpeg)
+
+Video
+
+
+1_Salida Digital High
+
+Código
+// C++ code
+//
+void setup()
+{
+  pinMode(13, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(13, HIGH);
+}
+
+Foto
+! [Circuito 2](assets/img/arduino/01.jpeg)
+
+Video
+
+
+2_Salida Digital Low
+
+Código
+// C++ code
+//
+void setup()
+{
+  pinMode(13, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(13, LOW);
+}
+
+Foto
+! [Circuito 3](assets/img/arduino/02.jpeg)
+
+Video
+
+
+
+3_Salida Digital Delay
+
+Código
+// C++ code
+//
+void setup()
+{
+  pinMode(13, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(13, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(13, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+}
+
+Foto
+![Circuito 4](assets/img/arduino/03.jpeg)
+
+Video
+
 
 
