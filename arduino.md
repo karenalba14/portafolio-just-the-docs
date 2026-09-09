@@ -121,5 +121,72 @@ Foto
 
 Video
 
+4_Salida Digital Led
 
+Código
+// C++ code
+//
+void setup()
+{
+  pinMode(13, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(13, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(13, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+}
+
+Foto
+![Circuito 5](assets/img/arduino/04.jpeg)
+
+Video
+
+
+5_Salida Digital Protoboard
+
+Código
+// C++ code
+//
+void setup()
+{
+  pinMode(13, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(13, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(13, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+}
+
+Foto
+![Circuito 6](assets/img/arduino/05.jpeg)
+
+Video
+
+
+6_Salida Digital Leds I
+
+Código
+// C++ code
+//
+void setup()
+{
+  pinMode(13, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(13, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(13, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+}
+
+Foto
+![Circuito 7](assets/img/arduino/06.jpeg)
 
