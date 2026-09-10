@@ -27,6 +27,8 @@ Fotos de los materiales:
 ![7](assets/img/arduino/c6.jpeg)
 ![8](assets/img/arduino/c7.jpeg)
 ![9](assets/img/arduino/c8.jpeg)
+![10](assets/img/arduino/c9.jpeg)
+![11](assets/img/arduino/c10.jpeg)
 
 Lista de materiales:
 * Tarjeta Arduino: placa programable que controla el funcionamiento del proyecto mediante el código cargado desde la computadora.     
