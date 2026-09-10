@@ -42,7 +42,8 @@ Lista de materiales:
 * Push button: botón que envía una señal al Arduino al presionarlo.    
 
 # Reporte
-## 0_Ejemplo Blink
+## 0_Ejemplo Blink.  
+Esto nos deja observar como el arduino ya está funcional, dado que el Led parpadea.
 
 **Código:**
 // C++ code
@@ -54,10 +55,14 @@ void setup()
 
 void loop()
 {
-  digitalWrite(LED_BUILTIN, HIGH);
-  delay(1000); // Wait for 1000 millisecond(s)
-  digitalWrite(LED_BUILTIN, LOW);
-  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(LED_BUILTIN, HIGH);   
+
+  delay(1000); // Wait for 1000 millisecond(s).   
+
+  digitalWrite(LED_BUILTIN, LOW);    
+
+  delay(1000); // Wait for 1000 millisecond(s).  
+
 }
 
 **Foto**
@@ -66,14 +71,18 @@ void loop()
 **Video**
 
 
-## 1_Salida Digital High
+## 1_Salida Digital High.  
+El código generó que el Led se mantuviera encendido
 
 **Código**
-// C++ code
+// C++ code.  
+
 //
-void setup()
+void setup().  
+
 {
-  pinMode(13, OUTPUT);
+  pinMode(13, OUTPUT);   
+
 }
 
 void loop()
@@ -87,7 +96,9 @@ void loop()
 **Video**
 
 
-## 2_Salida Digital Low
+## 2_Salida Digital Low.    
+
+
 
 **Código**
 // C++ code
@@ -791,3 +802,12 @@ void loop()
 ![Circuito 23](assets/img/arduino/22.jpeg)  
 
 **Video**
+
+
+## Conclusión general
+En conclusión, me gustaría mencionar las distintas cosas que aprendí a lo largo de la práctica con arduinos.   
+1. Qué es un Arduino, sus usos y modo de programarlo.   
+2. Cómo armar los circuitos en el protoboard y conectarlo al arduino
+3. Para que funciona cada componente.
+4. Cómo subir a github fotos y videos
+Asímismo, creo que la práctica me permitió claridad en el tema sobre el arduino, sin embargo, me hace falta mucha prácrica o tal vez teoría sobre el armado de los circuitos.
