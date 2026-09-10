@@ -191,3 +191,92 @@ void loop()
 ![Circuito 7](assets/img/arduino/06.jpeg)
 
 **Video**
+
+## 7_Salida Digital Leds II
+
+**Código**
+// C++ code
+//
+void setup()
+{
+  pinMode(13, OUTPUT);
+  pinMode(12, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(13, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(13, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(12, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(12, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+}
+
+**Foto**
+
+**Video**
+## 8_Salida Digital Display 7 Segmentos
+**Código**
+// C++ code
+//
+void setup()
+{
+  pinMode(13, OUTPUT);	//Segmento e
+  pinMode(12, OUTPUT);	//Segmento d
+  pinMode(10, OUTPUT);	//Segmento c
+  pinMode(9, OUTPUT);	//Segmento punto
+  pinMode(7, OUTPUT);	//Segmento b
+  pinMode(6, OUTPUT);	//Segmento a
+  pinMode(5, OUTPUT);	//Segmento f
+  pinMode(4, OUTPUT);	//Segmento g
+}
+
+void loop()
+{
+  digitalWrite(6, HIGH);//Segmento a
+  digitalWrite(7, HIGH); //Segmento b
+  digitalWrite(10, HIGH); //Segmento c
+  digitalWrite(12, HIGH); //Segmento d
+  digitalWrite(13, HIGH); //Segmento e
+  digitalWrite(5, HIGH); //Segmento f
+  digitalWrite(4, HIGH); //Segmento g
+  digitalWrite(9, HIGH); //Segmento punto
+  delay(1000);
+}
+
+**Foto**
+**Video**
+## 9_Salida Digital Display 7 Segmentos
+**Código**
+// C++ code
+//
+void setup()
+{
+  pinMode(13, OUTPUT);	//Segmento e
+  pinMode(12, OUTPUT);	//Segmento d
+  pinMode(10, OUTPUT);	//Segmento c
+  pinMode(9, OUTPUT);	//Segmento punto
+  pinMode(7, OUTPUT);	//Segmento b
+  pinMode(6, OUTPUT);	//Segmento a
+  pinMode(5, OUTPUT);	//Segmento f
+  pinMode(4, OUTPUT);	//Segmento g
+}
+
+void loop()
+{
+  digitalWrite(6, HIGH);//Segmento a
+  digitalWrite(7, HIGH); //Segmento b
+  digitalWrite(10, HIGH); //Segmento c
+  digitalWrite(12, HIGH); //Segmento d
+  digitalWrite(13, HIGH); //Segmento e
+  digitalWrite(5, HIGH); //Segmento f
+  digitalWrite(4, HIGH); //Segmento g
+  digitalWrite(9, HIGH); //Segmento punto
+  delay(1000);
+}
+
+**Foto**
+**Video**
