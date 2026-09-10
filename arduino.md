@@ -71,8 +71,8 @@ void loop()
 **Foto**
 ![Circuito 1](assets/img/arduino/00.jpeg)
 
-**Video**
-
+**Foto**
+![ArduinoConectado](assets/img/arduino/IMG_0036.jpeg)
 
 ## 1_Salida Digital High.  
 El código generó que el Led se mantuviera encendido
@@ -96,7 +96,6 @@ void loop()
 **Foto**
 ![Circuito 2](assets/img/arduino/01.jpeg)
 
-**Video**
 
 
 ## 2_Salida Digital Low.    
@@ -118,8 +117,6 @@ void loop()
 
 **Foto**
 ![Circuito 3](assets/img/arduino/02.jpeg)
-
-**Video**
 
 
 
@@ -145,7 +142,6 @@ void loop()
 *+Foto**
 ![Circuito 4](assets/img/arduino/03.jpeg)
 
-**Video**
 
 ## 4_Salida Digital Led.   
 Se programó para que el Led parpadeara al estar directo al arduino
@@ -169,7 +165,6 @@ void loop()
 **Foto**
 ![Circuito 5](assets/img/arduino/04.jpeg)
 
-**Video**
 
 
 ## 5_Salida Digital Protoboard.  
@@ -194,7 +189,6 @@ void loop()
 **Foto**
 ![Circuito 6](assets/img/arduino/05.jpeg)
 
-**Video**
 
 
 ## 6_Salida Digital Leds I.  
@@ -219,7 +213,7 @@ void loop()
 **Foto**
 ![Circuito 7](assets/img/arduino/06.jpeg)
 
-**Video**
+
 
 ## 7_Salida Digital Leds II.  
 Los Leds se sincronizan para parpadear
@@ -248,7 +242,6 @@ void loop()
 **Foto**
 ![Circuito 8](assets/img/arduino/07.jpeg)  
 
-**Video**
 
 
 ## 8_Salida Digital Display 7 Segmentos.  
@@ -285,7 +278,6 @@ void loop()
 **Foto**
 ![Circuito 9](assets/img/arduino/08.jpeg)  
 
-**Video**
 
 
 ## 9_Salida Digital Display 7 Segmentos.  
@@ -322,7 +314,6 @@ void loop()
 **Foto**
 ![Circuito 10](assets/img/arduino/09.jpeg)  
 
-**Video**
 
 ## 10_Entrada Digital Boton. 
 Hicimos que un botón encendiera el Led
@@ -346,7 +337,7 @@ void loop()
 **Foto**
 ![Circuito 11](assets/img/arduino/10.jpeg)  
 
-**Video**
+
 
 ## 11_Entrada Digital 2 Botones.  
 Generamos un circuito que se encendiera con 2 botones
@@ -374,7 +365,6 @@ void loop()
 **Foto**
 ![Circuito 12](assets/img/arduino/11.jpeg)  
 
-**Video**
 
 ## 12_Entrada Digital Condicionales Boton.  
 Cuando se pulsa el botón, se enciende el Led
@@ -405,7 +395,6 @@ void loop()
 **Foto**
 ![Circuito 13](assets/img/arduino/12.jpeg)  
 
-**Video**
 
 ## 13_Entrada Digital Condicionales 2 Botones.  
 Se enciende el Led con 2 botones
@@ -447,7 +436,6 @@ void loop()
 **Foto**
 ![Circuito 14](assets/img/arduino/13.jpeg)  
 
-**Video**
 
 ## 14_Condicionales OR Boton.  
 Si uno o ambos botones estaban presionados, entonces el LED se encendía.
@@ -482,7 +470,6 @@ void loop()
 **Foto**
 ![Circuito 15](assets/img/arduino/14.jpeg)  
 
-**Video**
 
 ## 15_Condicionales AND Botones.  
 Se encendía el Led al presionar ambos botones
@@ -517,7 +504,6 @@ void loop()
 **Foto**
 ![Circuito 16](assets/img/arduino/15.jpeg)  
 
-**Video**
 
 ## 16_Contador Leds.  
 Se encendían los Leds como si se estuvieran enumerando.
@@ -590,8 +576,6 @@ void loop()
 **Foto**
 ![Circuito 17](assets/img/arduino/16.jpeg)  
 
-**Video**
-
 ## 17_Servo.  
 El servomotor siempre tenía un ángulo de 0°
 
@@ -618,7 +602,6 @@ void loop()
 **Foto**
 ![Circuito 18](assets/img/arduino/17.jpeg)  
 
-**Video**
 ## 18_Servomotor Varias Posiciones.  
 El servomotor se movía de posición cada cierto tiempo.
 
@@ -657,7 +640,6 @@ void loop()
 **Foto**
 ![Circuito 19](assets/img/arduino/18.jpeg)  
 
-**Video**
 ## 19_Servomotor y Potenciómetro.  
 Se hizo un circuito donde el potenciómetro controla el movimiento del servo, de 0 a 180 grados. En el código se ajustan los valores que recibe el servo según el voltaje, de 0 a 5 V.
 
@@ -693,7 +675,6 @@ void loop()
 **Foto**
 ![Circuito 20](assets/img/arduino/19.jpeg)  
 
-**Video**
 ## 19_2_Servomotores y un Potenciómetro.  
 Se controlan 2 servomotores con los potenciómetros
 
@@ -735,7 +716,6 @@ void loop()
 **Foto**
 ![Circuito 21](assets/img/arduino/20.jpeg)  
 
-**Video**
 ## 20_Servomotores y 2 Potenciómetros.  
 Se controlaron 2 servomotorees independientemente con 2 potenciómetros
 
@@ -784,7 +764,6 @@ void loop()
 **Foto**
 ![Circuito 22](assets/img/arduino/21.jpeg)  
 
-**Video**
 ## 21_Fuente Externa.  
 Se controlaron 2 servomotores simultaneamente con una fuente externa.
 
@@ -826,8 +805,10 @@ void loop()
 **Foto**
 ![Circuito 23](assets/img/arduino/22.jpeg)  
 
-**Video**
 
+
+Videos.  
+[videos](https://www.youtube.com/playlist?list=PLB27JIL34Vxo)
 
 ## Conclusión general
 En conclusión, me gustaría mencionar las distintas cosas que aprendí a lo largo de la práctica con arduinos.   
