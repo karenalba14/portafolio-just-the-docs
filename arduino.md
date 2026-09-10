@@ -574,6 +574,8 @@ void loop()
 }
 
 **Foto**
+![Circuito 18](assets/img/arduino/17.jpeg)  
+
 **Video**
 ## 18_Servomotor Varias Posiciones
 
@@ -610,6 +612,8 @@ void loop()
 }
 
 **Foto**
+![Circuito 19](assets/img/arduino/18.jpeg)  
+
 **Video**
 ## 19_Servomotor y Potenciómetro
 
@@ -643,6 +647,8 @@ void loop()
 }
 
 **Foto**
+![Circuito 20](assets/img/arduino/19.jpeg)  
+
 **Video**
 ## 19_2_Servomotores y un Potenciómetro
 
@@ -682,6 +688,8 @@ void loop()
 }
 
 **Foto**
+![Circuito 21](assets/img/arduino/20.jpeg)  
+
 **Video**
 ## 20_Servomotores y 2 Potenciómetros
 
@@ -728,6 +736,8 @@ void loop()
 }
 
 **Foto**
+![Circuito 22](assets/img/arduino/21.jpeg)  
+
 **Video**
 ## 21_Fuente Externa
 
@@ -767,4 +777,6 @@ void loop()
 }
 
 **Foto**
+![Circuito 23](assets/img/arduino/22.jpeg)  
+
 **Video**
