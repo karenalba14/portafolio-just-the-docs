@@ -16,6 +16,17 @@ El Arduino IDE es el programa que se utiliza para escribir, revisar y cargar ins
 
 Primero se instala el Arduino IDE en la computadora y se conecta la placa Arduino mediante un cable USB. Dentro del programa se escribe el código, llamado sketch, usando un lenguaje basado en C/C++. Después, el IDE revisa si existen errores y compila el programa. Finalmente, al presionar el botón de cargar, el código se transfiere a la placa Arduino, que lo ejecuta para controlar componentes como luces, sensores, motores o pantallas.     
 
+Fotos de los materiales:
+![1](assets/img/arduino/5ef4d27f-750e-404c-86d3-6038779b825b.jpeg)
+![2](assets/img/arduino/c1.jpeg)
+![3](assets/img/arduino/c2.jpeg)
+![4](assets/img/arduino/c3.jpeg)
+![5](assets/img/arduino/c4.jpeg)
+![6](assets/img/arduino/c5.jpeg)
+![7](assets/img/arduino/c6.jpeg)
+![8](assets/img/arduino/c7.jpeg)
+![9](assets/img/arduino/c8.jpeg)
+
 Lista de materiales:
 * Tarjeta Arduino: placa programable que controla el funcionamiento del proyecto mediante el código cargado desde la computadora.     
 * Cable USB-A a USB-B: se utiliza para conectar la tarjeta Arduino a la computadora, cargar los programas y, en algunos casos, proporcionar alimentación eléctrica.    
