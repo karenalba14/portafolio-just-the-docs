@@ -309,7 +309,10 @@ void loop()
 }  
 
 **Foto**
+![Circuito 11](assets/img/arduino/10.jpeg)  
+
 **Video**
+
 ## 11_Entrada Digital 2 Botones
 
 **Código**
@@ -333,7 +336,10 @@ void loop()
 }
 
 **Foto**
+![Circuito 12](assets/img/arduino/11.jpeg)  
+
 **Video**
+
 ## 12_Entrada Digital Condicionales Boton
 
 **Código**
@@ -360,7 +366,10 @@ void loop()
   }
 }
 **Foto**
+![Circuito 13](assets/img/arduino/12.jpeg)  
+
 **Video**
+
 ## 13_Entrada Digital Condicionales 2 Botones
 
 **Código**
@@ -398,7 +407,10 @@ void loop()
   }
 }
 **Foto**
+![Circuito 14](assets/img/arduino/13.jpeg)  
+
 **Video**
+
 ## 14_Condicionales OR Boton
 
 **Código**
@@ -429,7 +441,10 @@ void loop()
 }
 
 **Foto**
+![Circuito 15](assets/img/arduino/14.jpeg)  
+
 **Video**
+
 ## 15_Condicionales AND Botones
 
 **Código**
@@ -460,7 +475,10 @@ void loop()
 }
 
 **Foto**
+![Circuito 16](assets/img/arduino/15.jpeg)  
+
 **Video**
+
 ## 16_Contador Leds
 
 **Código**
@@ -529,4 +547,6 @@ void loop()
 }
 
 **Foto**
+![Circuito 17](assets/img/arduino/16.jpeg)  
+
 **Video**
