@@ -16,7 +16,8 @@ El Arduino IDE es el programa que se utiliza para escribir, revisar y cargar ins
 
 Primero se instala el Arduino IDE en la computadora y se conecta la placa Arduino mediante un cable USB. Dentro del programa se escribe el código, llamado sketch, usando un lenguaje basado en C/C++. Después, el IDE revisa si existen errores y compila el programa. Finalmente, al presionar el botón de cargar, el código se transfiere a la placa Arduino, que lo ejecuta para controlar componentes como luces, sensores, motores o pantallas.     
 
-Fotos de los materiales:
+Fotos de los materiales:    
+
 ![1](assets/img/arduino/5ef4d27f-750e-404c-86d3-6038779b825b.jpeg)
 ![2](assets/img/arduino/c1.jpeg)
 ![3](assets/img/arduino/c2.jpeg)
@@ -97,7 +98,7 @@ void loop()
 
 
 ## 2_Salida Digital Low.    
-
+Se configuro el Led para estar apagado
 
 
 **Código**
@@ -120,7 +121,8 @@ void loop()
 
 
 
-## 3_Salida Digital Delay
+## 3_Salida Digital Delay.  
+Se atrasó 1 segundo al Led
 
 **Código**
 // C++ code
@@ -143,7 +145,8 @@ void loop()
 
 **Video**
 
-## 4_Salida Digital Led
+## 4_Salida Digital Led.   
+Se programó para que el Led parpadeara al estar directo al arduino
 
 **Código**
 // C++ code
@@ -167,7 +170,8 @@ void loop()
 **Video**
 
 
-## 5_Salida Digital Protoboard
+## 5_Salida Digital Protoboard.  
+Se colocó una resistencia para proteger al Led
 
 **Código**
 // C++ code
@@ -191,7 +195,8 @@ void loop()
 **Video**
 
 
-## 6_Salida Digital Leds I
+## 6_Salida Digital Leds I.  
+Se hizo que 2 leds parpadearan consecutivamente junto con sus resistencias.
 
 **Código**
 // C++ code
@@ -214,7 +219,8 @@ void loop()
 
 **Video**
 
-## 7_Salida Digital Leds II
+## 7_Salida Digital Leds II.  
+Los Leds se sincronizan para parpadear
 
 **Código**
 // C++ code
@@ -243,7 +249,9 @@ void loop()
 **Video**
 
 
-## 8_Salida Digital Display 7 Segmentos
+## 8_Salida Digital Display 7 Segmentos.  
+Conectamos el display de 7 segmentos para que mostrara el número 9. El código enviaba señales HIGH y LOW a los pines necesarios para lograrlo.   
+
 **Código**
 // C++ code
 //
@@ -278,7 +286,9 @@ void loop()
 **Video**
 
 
-## 9_Salida Digital Display 7 Segmentos
+## 9_Salida Digital Display 7 Segmentos.  
+Se hizo un conteo de 1 al 3.  
+
 **Código**
 // C++ code
 //
@@ -312,7 +322,8 @@ void loop()
 
 **Video**
 
-## 10_Entrada Digital Boton
+## 10_Entrada Digital Boton. 
+Hicimos que un botón encendiera el Led
 
 **Código**
 // C++ code
@@ -335,7 +346,8 @@ void loop()
 
 **Video**
 
-## 11_Entrada Digital 2 Botones
+## 11_Entrada Digital 2 Botones.  
+Generamos un circuito que se encendiera con 2 botones
 
 **Código**
 // C++ code
@@ -362,7 +374,8 @@ void loop()
 
 **Video**
 
-## 12_Entrada Digital Condicionales Boton
+## 12_Entrada Digital Condicionales Boton.  
+Cuando se pulsa el botón, se enciende el Led
 
 **Código**
 // C++ code
@@ -392,7 +405,8 @@ void loop()
 
 **Video**
 
-## 13_Entrada Digital Condicionales 2 Botones
+## 13_Entrada Digital Condicionales 2 Botones.  
+Se enciende el Led con 2 botones
 
 **Código**
 // C++ code
@@ -433,7 +447,8 @@ void loop()
 
 **Video**
 
-## 14_Condicionales OR Boton
+## 14_Condicionales OR Boton.  
+Si uno o ambos botones estaban presionados, entonces el LED se encendía.
 
 **Código**
 // C++ code
@@ -467,7 +482,8 @@ void loop()
 
 **Video**
 
-## 15_Condicionales AND Botones
+## 15_Condicionales AND Botones.  
+Se encendía el Led al presionar ambos botones
 
 **Código**
 // C++ code
@@ -501,7 +517,8 @@ void loop()
 
 **Video**
 
-## 16_Contador Leds
+## 16_Contador Leds.  
+Se encendían los Leds como si se estuvieran enumerando.
 
 **Código**
 // C++ code
@@ -573,7 +590,8 @@ void loop()
 
 **Video**
 
-## 17_Servo
+## 17_Servo.  
+El servomotor siempre tenía un ángulo de 0°
 
 **Código**
 // C++ code
@@ -599,7 +617,8 @@ void loop()
 ![Circuito 18](assets/img/arduino/17.jpeg)  
 
 **Video**
-## 18_Servomotor Varias Posiciones
+## 18_Servomotor Varias Posiciones.  
+El servomotor se movía de posición cada cierto tiempo.
 
 **Código**
 // C++ code
@@ -637,7 +656,8 @@ void loop()
 ![Circuito 19](assets/img/arduino/18.jpeg)  
 
 **Video**
-## 19_Servomotor y Potenciómetro
+## 19_Servomotor y Potenciómetro.  
+Se hizo un circuito donde el potenciómetro controla el movimiento del servo, de 0 a 180 grados. En el código se ajustan los valores que recibe el servo según el voltaje, de 0 a 5 V.
 
 **Código**
 // C++ code
@@ -672,7 +692,8 @@ void loop()
 ![Circuito 20](assets/img/arduino/19.jpeg)  
 
 **Video**
-## 19_2_Servomotores y un Potenciómetro
+## 19_2_Servomotores y un Potenciómetro.  
+Se controlan 2 servomotores con los potenciómetros
 
 **Código**
 // C++ code
@@ -713,7 +734,8 @@ void loop()
 ![Circuito 21](assets/img/arduino/20.jpeg)  
 
 **Video**
-## 20_Servomotores y 2 Potenciómetros
+## 20_Servomotores y 2 Potenciómetros.  
+
 
 **Código**
 // C++ code
