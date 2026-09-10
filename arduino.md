@@ -216,8 +216,11 @@ void loop()
 }
 
 **Foto**
+![Circuito 8](assets/img/arduino/07.jpeg)  
 
 **Video**
+
+
 ## 8_Salida Digital Display 7 Segmentos
 **Código**
 // C++ code
@@ -248,7 +251,11 @@ void loop()
 }
 
 **Foto**
+![Circuito 8](assets/img/arduino/08.jpeg)  
+
 **Video**
+
+
 ## 9_Salida Digital Display 7 Segmentos
 **Código**
 // C++ code
@@ -279,4 +286,8 @@ void loop()
 }
 
 **Foto**
+![Circuito 8](assets/img/arduino/09.jpeg)  
+
 **Video**
+
+
