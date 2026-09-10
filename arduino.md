@@ -735,7 +735,7 @@ void loop()
 
 **Video**
 ## 20_Servomotores y 2 Potenciómetros.  
-
+Se controlaron 2 servomotorees independientemente con 2 potenciómetros
 
 **Código**
 // C++ code
@@ -783,7 +783,8 @@ void loop()
 ![Circuito 22](assets/img/arduino/21.jpeg)  
 
 **Video**
-## 21_Fuente Externa
+## 21_Fuente Externa.  
+Se controlaron 2 servomotores simultaneamente con una fuente externa.
 
 **Código**
 // C++ code
