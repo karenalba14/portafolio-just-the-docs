@@ -6,7 +6,7 @@ nav_order: 0
 
 # Creación de repositorio
 
-Para crear mi página web utilicé GitHub y la plantilla que compartió el profesor Huber Girón, llamada `portafolio-just-the-docs`. Seguí sus indicaciones para tener una copia del proyecto en mi cuenta y comenzar a publicar mis trabajos.
+Para crear mi página web utilicé GitHub y la plantilla que compartió el profesor Huber, llamada `portafolio-just-the-docs`. Seguí sus indicaciones para tener una copia del proyecto en mi cuenta y comenzar a publicar mis trabajos.
 
 ## 1. Crear mi cuenta de GitHub
 
@@ -33,11 +33,10 @@ Esta configuración permite que el sitio utilice la dirección correspondiente a
 
 ## 4. Agregar y guardar mi contenido
 
-Después comencé a editar los archivos y agregar mi información. Las páginas utilizan **Markdown**, un formato de texto que permite incluir títulos, listas, imágenes y enlaces.
+Después comencé a agregar información. Las páginas utilizan **Markdown**, el cual, un formato de texto que permite incluir títulos, listas, imágenes y enlaces.
 
 Los cambios quedaron guardados mediante **commits**, que son registros en el historial del repositorio. Estos permiten consultar qué se modificó en cada momento.
 
-[Consultar el historial de mis cambios](https://github.com/karenalba14/portafolio-just-the-docs/commits/main/)
 
 ## 5. Publicar mi página con GitHub Pages
 
@@ -49,7 +48,7 @@ Mi página quedó disponible en:
 
 ## Evidencias del resultado
 
-Las siguientes capturas fueron tomadas el 6 de octubre de 2026 y muestran el estado del proyecto. No son capturas del momento original de creación de la cuenta o del repositorio.
+Las siguientes capturas no son capturas del momento original de creación de la cuenta o del repositorio.
 
 ### Mi repositorio
 
