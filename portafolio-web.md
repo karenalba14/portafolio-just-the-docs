@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Creación de repositorio
+title: Semana 1: Portafolio Web
 nav_order: 0
 ---
 
-# Creación de repositorio
+# Semana 1: Portafolio Web
 
 Para crear mi página web utilicé GitHub y la plantilla que compartió el profesor Huber, llamada `portafolio-just-the-docs`. Seguí sus indicaciones para tener una copia del proyecto en mi cuenta y comenzar a publicar mis trabajos.
 
