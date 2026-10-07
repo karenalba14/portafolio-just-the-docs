@@ -1,9 +1,14 @@
 ---
 layout: default
-title: Acerca de mi
-nav_order:6
+title: Acerca de mí
+nav_order: 1
 ---
-# Acerca de mi
+# Acerca de mí
+
+<img src="{{ '/assets/img/karen-de-pequena.jpg' | relative_url }}" alt="Karen de pequeña" width="320" style="max-width: 100%; height: auto;">
+
+*Yo de pequeña.*
+
 **Nombre**: Karen Alheli Alba Barraza.      
 **Fecha de nacimiento**:23-02-2008.        
 **Carrera**: Ingeniería mecatrónica y sistemas ciberfísicos.  

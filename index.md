@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Inicio
-nav_order: 1
+nav_order: 90
 ---
 
 # Plantilla de documentación con Just the Docs
