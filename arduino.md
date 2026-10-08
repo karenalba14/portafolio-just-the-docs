@@ -7,11 +7,9 @@ nav_order: 3
 <div class="arduino-page" markdown="1">
 
 <div class="arduino-hero">
-<p class="arduino-eyebrow">BITÁCORA DE APRENDIZAJE</p>
+<p class="arduino-eyebrow">Reporte</p>
 <h1 id="arduino">Arduino</h1>
-<p>De los primeros LEDs al control de servomotores: materiales, circuitos y código de mis prácticas.</p>
-<div class="arduino-tags"><span>23 prácticas</span><span>Circuitos</span><span>Programación C/C++</span></div>
-</div>
+<p>Uso de arduino IDE, conexión de circuitos, servomotores y código.</p>
 
 <nav class="arduino-nav" aria-label="Contenido de Arduino">
 <a href="#fundamentos">Fundamentos</a><a href="#materiales">Materiales</a><a href="#reporte">Prácticas</a><a href="#videos">Videos</a><a href="#conclusion">Conclusión</a>
@@ -66,39 +64,10 @@ Primero se instala el Arduino IDE en la computadora y se conecta la placa Arduin
 </div>
 </details>
 
-## Reporte de prácticas
+## Reportes
 {: #reporte }
 
 Cada práctica reúne la observación, la evidencia del circuito y su código. Pulsa **Ver código** para consultar el programa completo.
-
-<details class="arduino-details" markdown="1">
-<summary>Índice de las 23 prácticas</summary>
-
-- [0 · Ejemplo Blink](#practica-0)
-- [1 · Salida digital · HIGH](#practica-1)
-- [2 · Salida digital · LOW](#practica-2)
-- [3 · Salida digital · Delay](#practica-3)
-- [4 · Salida digital · LED](#practica-4)
-- [5 · Salida digital · Protoboard](#practica-5)
-- [6 · Salida digital · LEDs I](#practica-6)
-- [7 · Salida digital · LEDs II](#practica-7)
-- [8 · Display de 7 segmentos I](#practica-8)
-- [9 · Display de 7 segmentos II](#practica-9)
-- [10 · Entrada digital · Botón](#practica-10)
-- [11 · Entrada digital · Dos botones](#practica-11)
-- [12 · Condicionales · Botón](#practica-12)
-- [13 · Condicionales · Dos botones](#practica-13)
-- [14 · Condicional OR](#practica-14)
-- [15 · Condicional AND](#practica-15)
-- [16 · Contador de LEDs](#practica-16)
-- [17 · Servomotor](#practica-17)
-- [18 · Servomotor · Varias posiciones](#practica-18)
-- [19 · Servomotor y potenciómetro](#practica-19)
-- [19.2 · Dos servomotores y un potenciómetro](#practica-20)
-- [20 · Dos servomotores y dos potenciómetros](#practica-21)
-- [21 · Fuente externa](#practica-22)
-
-</details>
 
 ## Salidas digitales
 
@@ -143,9 +112,6 @@ void loop()
 ```
 
 </details>
-
-[Volver al índice ↑](#reporte)
-{: .arduino-back }
 
 </div>
 
