@@ -3,7 +3,7 @@ layout: default
 title: Arduino
 nav_order:3
 ---
-# Arduino. 
+# Arduino
 ¿Qué es un arduino? 
 
 El Arduino es un software en plataforma electrónica de código abierto, que tiene software y hardware libres. Fue creado en italia en 2005 para desarrollar prototipos interactivos. Permite utlizar muchos microordenadores de una sola placa y darles muchos usos.  
