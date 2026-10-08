@@ -150,9 +150,6 @@ void loop()
 
 </details>
 
-[Volver al índice ↑](#reporte)
-{: .arduino-back }
-
 </div>
 
 <div class="arduino-practice" markdown="1">
@@ -187,8 +184,6 @@ void loop()
 
 </details>
 
-[Volver al índice ↑](#reporte)
-{: .arduino-back }
 
 </div>
 
@@ -227,8 +222,6 @@ void loop()
 
 </details>
 
-[Volver al índice ↑](#reporte)
-{: .arduino-back }
 
 </div>
 
@@ -267,8 +260,6 @@ void loop()
 
 </details>
 
-[Volver al índice ↑](#reporte)
-{: .arduino-back }
 
 </div>
 
@@ -307,8 +298,6 @@ void loop()
 
 </details>
 
-[Volver al índice ↑](#reporte)
-{: .arduino-back }
 
 </div>
 
@@ -347,8 +336,6 @@ void loop()
 
 </details>
 
-[Volver al índice ↑](#reporte)
-{: .arduino-back }
 
 </div>
 
@@ -392,8 +379,6 @@ void loop()
 
 </details>
 
-[Volver al índice ↑](#reporte)
-{: .arduino-back }
 
 </div>
 
@@ -448,8 +433,6 @@ void loop()
 
 </details>
 
-[Volver al índice ↑](#reporte)
-{: .arduino-back }
 
 </div>
 
@@ -500,8 +483,6 @@ void loop()
 
 </details>
 
-[Volver al índice ↑](#reporte)
-{: .arduino-back }
 
 </div>
 
@@ -544,8 +525,6 @@ void loop()
 
 </details>
 
-[Volver al índice ↑](#reporte)
-{: .arduino-back }
 
 </div>
 
@@ -588,8 +567,6 @@ void loop()
 
 </details>
 
-[Volver al índice ↑](#reporte)
-{: .arduino-back }
 
 </div>
 
@@ -636,8 +613,6 @@ void loop()
 
 </details>
 
-[Volver al índice ↑](#reporte)
-{: .arduino-back }
 
 </div>
 
@@ -695,8 +670,6 @@ void loop()
 
 </details>
 
-[Volver al índice ↑](#reporte)
-{: .arduino-back }
 
 </div>
 
@@ -746,8 +719,6 @@ void loop()
 
 </details>
 
-[Volver al índice ↑](#reporte)
-{: .arduino-back }
 
 </div>
 
@@ -797,8 +768,6 @@ void loop()
 
 </details>
 
-[Volver al índice ↑](#reporte)
-{: .arduino-back }
 
 </div>
 
@@ -886,8 +855,6 @@ void loop()
 
 </details>
 
-[Volver al índice ↑](#reporte)
-{: .arduino-back }
 
 </div>
 
@@ -934,8 +901,6 @@ void loop()
 
 </details>
 
-[Volver al índice ↑](#reporte)
-{: .arduino-back }
 
 </div>
 
@@ -990,8 +955,6 @@ void loop()
 
 </details>
 
-[Volver al índice ↑](#reporte)
-{: .arduino-back }
 
 </div>
 
@@ -1043,8 +1006,6 @@ void loop()
 
 </details>
 
-[Volver al índice ↑](#reporte)
-{: .arduino-back }
 
 </div>
 
@@ -1102,8 +1063,6 @@ void loop()
 
 </details>
 
-[Volver al índice ↑](#reporte)
-{: .arduino-back }
 
 </div>
 
@@ -1168,8 +1127,6 @@ void loop()
 
 </details>
 
-[Volver al índice ↑](#reporte)
-{: .arduino-back }
 
 </div>
 
@@ -1227,8 +1184,6 @@ void loop()
 
 </details>
 
-[Volver al índice ↑](#reporte)
-{: .arduino-back }
 
 </div>
 
