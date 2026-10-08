@@ -14,6 +14,7 @@ nav_order: 3
 <nav class="arduino-nav" aria-label="Contenido de Arduino">
 <a href="#fundamentos">Fundamentos</a><a href="#materiales">Materiales</a><a href="#reporte">Prácticas</a><a href="#videos">Videos</a><a href="#conclusion">Conclusión</a>
 </nav>
+</div>
 
 <div id="fundamentos" markdown="1">
 
