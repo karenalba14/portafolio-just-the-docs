@@ -8,6 +8,14 @@ Esta es una **plantilla de documentación** basada en **Just the Docs** (Jekyll)
 - publicar su sitio en **GitHub Pages**,
 - y mantener una estructura y estilos consistentes (logo/colores/footer).
 
+## Videojuego: Velocidad vs. hielo
+
+Juego de pelea arcade desarrollado con apoyo de IA en HTML, CSS y JavaScript. Dash y Frozono se enfrentan contra la computadora o en modo de dos jugadores. Se juega con teclado en computadora.
+
+[Jugar Velocidad vs. hielo](https://karenalba14.github.io/portafolio-just-the-docs/velocidad-hielo.html)
+
+[Ver la página del proyecto en el portafolio](https://karenalba14.github.io/portafolio-just-the-docs/videojuego-velocidad-hielo/)
+
 ---
 
 ## Requisitos
@@ -139,3 +147,4 @@ Tip: si no ves cambios, fuerza recarga del navegador (hard refresh):
 
 Define la licencia que usarás para el contenido (por ejemplo **MIT**, **CC BY 4.0**, etc.).  
 Este repositorio puede incluir ejemplos de licencia en el footer. Ajusta texto/enlaces según tu política del curso.
+
