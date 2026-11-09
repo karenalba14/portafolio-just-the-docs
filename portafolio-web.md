@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Semana 1: Portafolio Web"
-nav_order: 0
+title: "portafolio web"
+nav_order: 2
 ---
 
 # Semana 1: Portafolio Web
