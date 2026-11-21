@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "velocidad vs hielo"
+title: "Velocidad vs. hielo"
 nav_order: 6
 permalink: /videojuego-velocidad-hielo/
 ---
