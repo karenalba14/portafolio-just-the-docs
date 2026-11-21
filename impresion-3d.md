@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "impresión 3d"
+title: "Impresión 3D"
 nav_order: 7
 ---
 
-# impresión 3d
+# Impresión 3D
