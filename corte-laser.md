@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "corte laser"
+title: "Corte láser"
 nav_order: 4
 permalink: /corte-laser/
 ---
