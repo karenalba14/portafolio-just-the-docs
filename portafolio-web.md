@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "portafolio web"
+title: "Portafolio web"
 nav_order: 2
 ---
 
