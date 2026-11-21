@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "arduino"
+title: "Arduino"
 nav_order: 3
 ---
 
