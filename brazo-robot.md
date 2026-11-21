@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "brazo robot"
+title: "Brazo robot"
 nav_order: 5
 ---
 
