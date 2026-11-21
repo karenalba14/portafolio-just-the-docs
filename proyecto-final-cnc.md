@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "proyecto final: CNC"
+title: "Proyecto final: CNC"
 nav_order: 8
 ---
 
