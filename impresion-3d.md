@@ -1,4 +1,10 @@
----
+  <figure style="margin:0;border:1px solid #8c83a5;border-radius:10px;padding:.75rem;">
+    <video controls playsinline preload="metadata" aria-label="Video de la pieza en movimiento" style="display:block;width:100%;max-height:360px;">
+      <source src="{{ '/assets/bambu-pieza-en-movimiento.mp4' | relative_url }}" type="video/mp4">
+      <a href="{{ '/assets/bambu-pieza-en-movimiento.mp4' | relative_url }}">Abrir video</a>
+    </video>
+    <figcaption style="margin-top:.5rem;"><strong>Video de la pieza en movimiento</strong></figcaption>
+  </figure>---
 layout: default
 title: "Impresión 3D"
 nav_order: 7
