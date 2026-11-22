@@ -36,7 +36,9 @@ Generaré una impresión de un arco que gira sobre su propio eje, rodeado por un
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(155px,1fr));gap:.75rem;margin:1rem 0 1.75rem;">
   <div style="border:1px dashed #8c83a5;border-radius:10px;padding:.9rem;min-height:72px;"><strong>Captura de Bambu Studio</strong><br><small>Evidencia pendiente</small><!-- bambu-captura --></div>
-  <div style="border:1px dashed #8c83a5;border-radius:10px;padding:.9rem;min-height:72px;"><strong>Foto del proceso de impresión</strong><br><small>Evidencia pendiente</small><!-- bambu-proceso --></div>
+  <figure style="margin:0;border:1px solid #8c83a5;border-radius:10px;padding:.75rem;"><img src="{{ '/assets/bambu-proceso.jpeg' | relative_url }}" alt="Proceso de impresión" loading="lazy" style="display:block;width:100%;height:220px;object-fit:contain;"><figcaption style="margin-top:.5rem;"><strong>Proceso de impresión</strong></figcaption></figure>
+  <figure style="margin:0;border:1px solid #8c83a5;border-radius:10px;padding:.75rem;"><img src="{{ '/assets/bambu-antes-de-limpiar.jpg' | relative_url }}" alt="Impresión antes de limpiar" loading="lazy" style="display:block;width:100%;height:220px;object-fit:contain;"><figcaption style="margin-top:.5rem;"><strong>Impresión antes de limpiar</strong></figcaption></figure>
+  <figure style="margin:0;border:1px solid #8c83a5;border-radius:10px;padding:.75rem;"><img src="{{ '/assets/bambu-producto-final.jpeg' | relative_url }}" alt="Producto final" loading="lazy" style="display:block;width:100%;height:220px;object-fit:contain;"><figcaption style="margin-top:.5rem;"><strong>Producto final</strong></figcaption></figure>
   <div style="border:1px dashed #8c83a5;border-radius:10px;padding:.9rem;min-height:72px;"><strong>Video de la pieza en movimiento</strong><br><small>Evidencia pendiente</small><!-- bambu-video --></div>
 </div>
 
