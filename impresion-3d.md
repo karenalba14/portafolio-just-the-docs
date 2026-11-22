@@ -1,10 +1,4 @@
-  <figure style="margin:0;border:1px solid #8c83a5;border-radius:10px;padding:.75rem;">
-    <video controls playsinline preload="metadata" aria-label="Video de la pieza en movimiento" style="display:block;width:100%;max-height:360px;">
-      <source src="{{ '/assets/bambu-pieza-en-movimiento.mp4' | relative_url }}" type="video/mp4">
-      <a href="{{ '/assets/bambu-pieza-en-movimiento.mp4' | relative_url }}">Abrir video</a>
-    </video>
-    <figcaption style="margin-top:.5rem;"><strong>Video de la pieza en movimiento</strong></figcaption>
-  </figure>---
+---
 layout: default
 title: "Impresión 3D"
 nav_order: 7
@@ -45,7 +39,13 @@ Generaré una impresión de un arco que gira sobre su propio eje, rodeado por un
   <figure style="margin:0;border:1px solid #8c83a5;border-radius:10px;padding:.75rem;"><img src="{{ '/assets/bambu-proceso.jpeg' | relative_url }}" alt="Proceso de impresión" loading="lazy" style="display:block;width:100%;height:220px;object-fit:contain;"><figcaption style="margin-top:.5rem;"><strong>Proceso de impresión</strong></figcaption></figure>
   <figure style="margin:0;border:1px solid #8c83a5;border-radius:10px;padding:.75rem;"><img src="{{ '/assets/bambu-antes-de-limpiar.jpg' | relative_url }}" alt="Impresión antes de limpiar" loading="lazy" style="display:block;width:100%;height:220px;object-fit:contain;"><figcaption style="margin-top:.5rem;"><strong>Impresión antes de limpiar</strong></figcaption></figure>
   <figure style="margin:0;border:1px solid #8c83a5;border-radius:10px;padding:.75rem;"><img src="{{ '/assets/bambu-producto-final.jpeg' | relative_url }}" alt="Producto final" loading="lazy" style="display:block;width:100%;height:220px;object-fit:contain;"><figcaption style="margin-top:.5rem;"><strong>Producto final</strong></figcaption></figure>
-  <div style="border:1px dashed #8c83a5;border-radius:10px;padding:.9rem;min-height:72px;"><strong>Video de la pieza en movimiento</strong><br><small>Evidencia pendiente</small><!-- bambu-video --></div>
+  <figure style="margin:0;border:1px solid #8c83a5;border-radius:10px;padding:.75rem;">
+    <video controls playsinline preload="metadata" aria-label="Video de la pieza en movimiento" style="display:block;width:100%;max-height:360px;">
+      <source src="{{ '/assets/bambu-pieza-en-movimiento.mp4' | relative_url }}" type="video/mp4">
+      <a href="{{ '/assets/bambu-pieza-en-movimiento.mp4' | relative_url }}">Abrir video</a>
+    </video>
+    <figcaption style="margin-top:.5rem;"><strong>Video de la pieza en movimiento</strong></figcaption>
+  </figure>
 </div>
 
 #### Impresora 2
