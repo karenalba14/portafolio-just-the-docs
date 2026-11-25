@@ -88,24 +88,53 @@ La primera impresora me pareció muy sencilla de usar. Pude configurar la impres
 
 ### Prompt
 
-> Diseña una figura 3D imprimible de **Chimuelo (Toothless), el dragón de *Cómo entrenar a tu dragón***. Quiero que esté sentado, con cabeza ancha y redondeada, ojos grandes, orejas cortas, alas plegadas pegadas al lomo y la cola curvada junto al cuerpo. Incluye la aleta protésica de la cola como detalle.
+> Diseña un perrito pequeño y sentado, de estilo minimalista, con cabeza redondeada, hocico corto, nariz definida, ojos pequeños, orejas caídas, patas delanteras juntas y cola corta curvada junto al cuerpo. Usa relieves suaves que se distingan con un solo color de filamento.
 >
-> La figura completa debe medir como máximo **45 mm de ancho × 45 mm de fondo × 48 mm de alto**. Modela todo como un solo sólido con base plana. Diseña las orejas, las alas y la cola con suficiente grosor para una impresión FDM en PLA con boquilla de 0.4 mm. Mantén la cola en contacto con el cuerpo o la base y usa relieves poco profundos para los ojos y la cara. Diseña la figura para que pueda imprimirse con la base apoyada y con la menor cantidad de soportes posible.
->
-> Genera un **archivo STL listo para importar al laminador** y un archivo editable del modelo. Documenta el diseño por etapas: base y cuerpo, cabeza y cara, alas, cola y figura completa. Incluye una vista de cada etapa para que pueda poner en el portafolio **una explicación breve seguida de su imagen**. Termina con una vista de tres cuartos del diseño final y reporta sus dimensiones en milímetros.
+> El modelo debe caber en 30 × 30 × 35 mm. Hazlo en una sola pieza con base plana integrada, preparada para impresión FDM en PLA con boquilla de 0,4 mm y con el objetivo de imprimir sin soportes. Entrega un STL de malla cerrada, un modelo editable y una imagen por etapa.
 
-### Proceso de impresión
+### Proceso de diseño
 
-1. Descargar el archivo en formato STL.
-2. Importar el archivo a Bambu Studio.
-3. Agregar un borde de adhesión para evitar que la figura se despegue de la cama y añadir los soportes necesarios.
-4. Imprimir.
+#### 1. Base y cuerpo
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(155px,1fr));gap:.75rem;margin:1rem 0 1.75rem;">
-  <div style="border:1px dashed #8c83a5;border-radius:10px;padding:.9rem;min-height:72px;"><strong>Captura de Bambu Studio</strong><br><small>Evidencia pendiente</small><!-- ia-captura --></div>
-  <div style="border:1px dashed #8c83a5;border-radius:10px;padding:.9rem;min-height:72px;"><strong>Foto del proceso de impresión</strong><br><small>Evidencia pendiente</small><!-- ia-proceso --></div>
-  <div style="border:1px dashed #8c83a5;border-radius:10px;padding:.9rem;min-height:72px;"><strong>Video de la impresión</strong><br><small>Evidencia pendiente</small><!-- ia-video --></div>
-</div>
+El torso se formó con volúmenes redondeados. La parte inferior se cortó al ras para crear una base plana integrada.
+
+![Base y cuerpo]({{ '/assets/perrito-3d/01-etapa.png' | relative_url }})
+
+#### 2. Cabeza y hocico
+
+Se unió una cabeza redondeada al torso y se añadió un hocico corto con una transición suave hacia la cara.
+
+![Cabeza y hocico]({{ '/assets/perrito-3d/02-etapa.png' | relative_url }})
+
+#### 3. Ojos, nariz y orejas
+
+Los ojos y la nariz se modelaron en relieve para que se distingan al imprimir en un solo color. Las orejas caídas se fusionaron con los costados de la cabeza.
+
+![Ojos, nariz y orejas]({{ '/assets/perrito-3d/03-etapa.png' | relative_url }})
+
+#### 4. Patas y cola
+
+Se juntaron las patas delanteras y se marcó la separación entre ellas con un surco suave. La cola quedó curvada y unida al costado.
+
+![Patas y cola]({{ '/assets/perrito-3d/04-etapa.png' | relative_url }})
+
+#### 5. Integración y figura completa
+
+Se exportó el modelo como un STL de **28 × 25 × 34 mm** (ancho × fondo × alto). Se verificó que la malla es cerrada, que tiene una sola componente y que sus caras mantienen una orientación coherente.
+
+![Integración y figura completa]({{ '/assets/perrito-3d/05-etapa.png' | relative_url }})
+
+### Vista final de tres cuartos
+
+![Perrito sentado en vista de tres cuartos]({{ '/assets/perrito-3d/06-tres-cuartos.png' | relative_url }})
+
+### Preparación para la impresión
+
+Importé el STL en Bambu Studio, apoyé la base plana sobre la cama y laminé la figura con el perfil Bambu Lab X1. Usé PLA genérico, una boquilla de 0,4 mm, una altura de capa de 0,20 mm, dos paredes y relleno de rejilla al 15 %. Dejé desactivados los soportes. La vista previa mostró **170 capas** y una altura total de **34 mm**.
+
+![Vista previa del perrito laminado en Bambu Studio]({{ '/assets/perrito-3d/07-bambu-studio.jpg' | relative_url }})
+
+La evidencia disponible corresponde al laminado. La foto de la impresión física queda pendiente.
 
 ## Conclusiones
 
