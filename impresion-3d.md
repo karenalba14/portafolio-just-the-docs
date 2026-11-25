@@ -10,20 +10,39 @@ nav_order: 7
 
 ## Diseño propio
 
-Generaré una impresión de un arco que gira sobre su propio eje, rodeado por una circunferencia.
+Diseñé un arco con flecha que gira sobre su propio eje dentro de un marco circular.
 
 ### A. Proceso de diseño
 
-1. Diseñar la circunferencia y extruirla.
-2. Diseñar el arco y hacer sus extrusiones.
-3. Diseñar la flecha y hacer sus extrusiones.
-4. Diseñar el eje que permitirá que el arco gire.
-5. Ajustar las medidas del eje y hacer cortes en la circunferencia para que embone.
+#### Marco circular
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(155px,1fr));gap:.75rem;margin:1rem 0 1.75rem;">
-  <div style="border:1px dashed #8c83a5;border-radius:10px;padding:.9rem;min-height:72px;"><strong>Avance de diseño</strong><br><small>Evidencia pendiente</small><!-- avance-diseno --></div>
-  <div style="border:1px dashed #8c83a5;border-radius:10px;padding:.9rem;min-height:72px;"><strong>Diseño final</strong><br><small>Evidencia pendiente</small><!-- diseno-final --></div>
-</div>
+Tracé dos círculos concéntricos en SolidWorks y extruí el espacio entre ellos para formar el marco.
+
+![Marco circular en SolidWorks]({{ '/assets/IMG_2683.jpeg' | relative_url }})
+
+#### Eje de giro
+
+Modelé el eje vertical con una operación de revolución. El arco gira alrededor de ese eje dentro del marco.
+
+![Eje de giro en SolidWorks]({{ '/assets/IMG_2685.jpeg' | relative_url }})
+
+#### Cuerpo del arco
+
+Dibujé el perfil curvo del arco y lo extruí para darle espesor.
+
+![Cuerpo del arco en SolidWorks]({{ '/assets/IMG_2687.jpeg' | relative_url }})
+
+#### Cuerda del arco
+
+Añadí la cuerda entre los extremos del arco.
+
+![Cuerda del arco en SolidWorks]({{ '/assets/IMG_2689.jpeg' | relative_url }})
+
+#### Flecha y vista del conjunto
+
+Modelé la punta y la parte trasera de la flecha. Ajusté las medidas del eje y los cortes del marco para que el arco embonara y pudiera girar. La vista isométrica muestra cómo se acomodan las piezas.
+
+![Flecha y vista del conjunto en SolidWorks]({{ '/assets/IMG_2690.jpeg' | relative_url }})
 
 ### B. Proceso de impresión
 
