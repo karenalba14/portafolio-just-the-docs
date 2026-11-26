@@ -67,7 +67,7 @@ Modelé la punta y la parte trasera de la flecha. Ajusté las medidas del eje y 
   </figure>
 </div>
 
-#### Impresora 2
+#### Impresora 2 · Creality
 
 1. Descargar el archivo en formato STL.
 2. Preparar el archivo de impresión en el laminador y guardarlo en una memoria USB.
@@ -75,8 +75,10 @@ Modelé la punta y la parte trasera de la flecha. Ajusté las medidas del eje y 
 4. Imprimir.
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(155px,1fr));gap:.75rem;margin:1rem 0 1.75rem;">
-  <div style="border:1px dashed #8c83a5;border-radius:10px;padding:.9rem;min-height:72px;"><strong>Archivo en la memoria USB</strong><br><small>Evidencia pendiente</small><!-- creality-usb --></div>
-  <div style="border:1px dashed #8c83a5;border-radius:10px;padding:.9rem;min-height:72px;"><strong>Foto del proceso de impresión</strong><br><small>Evidencia pendiente</small><!-- creality-proceso --></div>
+  <figure style="margin:0;border:1px solid #8c83a5;border-radius:10px;padding:.75rem;"><img src="{{ '/assets/creality-laminador.jpg' | relative_url }}" alt="Acomodo de las figuras en el laminador" loading="lazy" style="display:block;width:100%;height:220px;object-fit:contain;"><figcaption style="margin-top:.5rem;"><strong>Acomodo de las figuras en el laminador</strong></figcaption></figure>
+  <figure style="margin:0;border:1px solid #8c83a5;border-radius:10px;padding:.75rem;"><img src="{{ '/assets/creality-proceso.jpg' | relative_url }}" alt="Proceso de impresión" loading="lazy" style="display:block;width:100%;height:220px;object-fit:contain;"><figcaption style="margin-top:.5rem;"><strong>Proceso de impresión</strong></figcaption></figure>
+  <figure style="margin:0;border:1px solid #8c83a5;border-radius:10px;padding:.75rem;"><img src="{{ '/assets/creality-antes-de-limpiar.jpg' | relative_url }}" alt="Piezas impresas antes de limpiar y armar" loading="lazy" style="display:block;width:100%;height:220px;object-fit:contain;"><figcaption style="margin-top:.5rem;"><strong>Piezas impresas antes de limpiar y armar</strong></figcaption></figure>
+  <figure style="margin:0;border:1px solid #8c83a5;border-radius:10px;padding:.75rem;"><img src="{{ '/assets/creality-producto-final.jpg' | relative_url }}" alt="Arco limpio y armado" loading="lazy" style="display:block;width:100%;height:220px;object-fit:contain;"><figcaption style="margin-top:.5rem;"><strong>Arco limpio y armado</strong></figcaption></figure>
   <div style="border:1px dashed #8c83a5;border-radius:10px;padding:.9rem;min-height:72px;"><strong>Video de la pieza en movimiento</strong><br><small>Evidencia pendiente</small><!-- creality-video --></div>
 </div>
 
