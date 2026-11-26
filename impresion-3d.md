@@ -79,8 +79,14 @@ Modelé la punta y la parte trasera de la flecha. Ajusté las medidas del eje y 
   <figure style="margin:0;border:1px solid #8c83a5;border-radius:10px;padding:.75rem;"><img src="{{ '/assets/creality-proceso.jpg' | relative_url }}" alt="Proceso de impresión" loading="lazy" style="display:block;width:100%;height:220px;object-fit:contain;"><figcaption style="margin-top:.5rem;"><strong>Proceso de impresión</strong></figcaption></figure>
   <figure style="margin:0;border:1px solid #8c83a5;border-radius:10px;padding:.75rem;"><img src="{{ '/assets/creality-antes-de-limpiar.jpg' | relative_url }}" alt="Piezas impresas antes de limpiar y armar" loading="lazy" style="display:block;width:100%;height:220px;object-fit:contain;"><figcaption style="margin-top:.5rem;"><strong>Piezas impresas antes de limpiar y armar</strong></figcaption></figure>
   <figure style="margin:0;border:1px solid #8c83a5;border-radius:10px;padding:.75rem;"><img src="{{ '/assets/creality-producto-final.jpg' | relative_url }}" alt="Arco limpio y armado" loading="lazy" style="display:block;width:100%;height:220px;object-fit:contain;"><figcaption style="margin-top:.5rem;"><strong>Arco limpio y armado</strong></figcaption></figure>
-  <div style="border:1px dashed #8c83a5;border-radius:10px;padding:.9rem;min-height:72px;"><strong>Video de la pieza en movimiento</strong><br><small>Evidencia pendiente</small><!-- creality-video --></div>
 </div>
+
+##### Resultados en Creality
+
+<video controls playsinline preload="metadata" aria-label="Arco impreso en Creality" style="display:block;width:100%;max-height:420px;">
+  <source src="{{ '/assets/creality-arco-resultado.mp4' | relative_url }}" type="video/mp4">
+  <a href="{{ '/assets/creality-arco-resultado.mp4' | relative_url }}">Abrir video</a>
+</video>
 
 ### C. Comparación de impresoras
 
@@ -136,7 +142,12 @@ Importé el STL en Bambu Studio, apoyé la base plana sobre la cama y laminé la
 
 ![Vista previa del perrito laminado en Bambu Studio]({{ '/assets/perrito-3d/07-bambu-studio.jpg' | relative_url }})
 
-La evidencia disponible corresponde al laminado. La foto de la impresión física queda pendiente.
+### Resultados del perrito
+
+<video controls playsinline preload="metadata" aria-label="Perrito impreso en 3D" style="display:block;width:100%;max-height:420px;">
+  <source src="{{ '/assets/perrito-3d/resultado-impreso.mp4' | relative_url }}" type="video/mp4">
+  <a href="{{ '/assets/perrito-3d/resultado-impreso.mp4' | relative_url }}">Abrir video</a>
+</video>
 
 ## Conclusiones
 
